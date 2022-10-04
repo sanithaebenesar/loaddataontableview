@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  loadDataOnTableView
 //
-//  Created by CH 002 on 01/10/22.
+//  Created by CH 001 on 01/10/22.
 //
 
 import UIKit
